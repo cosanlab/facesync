@@ -1,0 +1,27 @@
+{
+    "description": "<p>Release for F1000</p>",
+    "license": "other-open",
+    "title": "cosanlab/facesync: 0.9",
+    "version": "0.9",
+    "upload_type": "software",
+    "publication_date": "2019-04-12",
+    "creators": [
+        {
+            "affiliation": "Dartmouth College",
+            "name": "Jin Hyun Cheong"
+        }
+    ],
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/cosanlab/facesync/tree/0.9",
+            "relation": "isSupplementTo"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.5281/zenodo.2638334",
+            "relation": "isVersionOf"
+        }
+    ]
+}
